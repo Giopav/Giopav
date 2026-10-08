@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Giopav!
-- 👀 I’m interested in programming but lately mostly in Java.
-- 🌱 I’m currently learning Java, Unity with C#, Flutter, and looking forward to studying anything tech-related.
-- 💞️ I’m looking to collaborate on anything that makes me get more experienced.
-- 📫 How to reach me: @GiopavWasTaken on twitter and @Giopav on telegram.
+# Giorgio Pavone
 
-The Hexagon is the Bestagon!
+Computer Engineering student at Politecnico di Milano. Founder of DeLTA,
+the PoliMi student association on blockchain, Web3 and AI.
+
+I build products with AI, currently working on **Dropout**, an
+exercise-first AI study tutor for university exams.
+
+**Stack:** Java · C · C++ · MATLAB · Git · Linux · WordPress
+
+[LinkedIn](https://www.linkedin.com/in/giorgio-pavone) · [DeLTA](https://deltapolimi.org)
